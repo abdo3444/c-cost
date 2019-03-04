@@ -6,7 +6,7 @@ namespace المتغيرات
     {
         static void Main(string[] args)
         {
-             
+           //this is first my program  
             
         }
     }
